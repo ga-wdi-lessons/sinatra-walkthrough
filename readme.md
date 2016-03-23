@@ -32,7 +32,7 @@ Checkout the `code` branch.
 
 Each step below has a corresponding commit. You can see them here:
 
-https://github.com/ga-wdi-exercises/sinatra-walkthrough/commits/code
+https://github.com/ga-wdi-lessons/sinatra-walkthrough/commits/code
 
 ## Load the appropriate gems
 
