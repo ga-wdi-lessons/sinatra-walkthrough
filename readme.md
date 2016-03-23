@@ -170,7 +170,7 @@ Aside from that, they work the exact same way.
 In Rails and Sinatra, routes work like this:
 
 | If you go to localhost:1234/... | it matches this route | and `params[:id]` equals | `params[:tag_id]` |
-|:--- |:--- |:--- |
+|:--- |:--- |:--- |:--- |
 | `/tags/32` | `/tags/:id` | 32 | nil |
 | `/tags/32/items` | `/tags/:tag_id/items` | nil | 32 |
 | `/tags/32/items/19` | `/tags/:tag_id/items/:id` | 19 | 32 |
