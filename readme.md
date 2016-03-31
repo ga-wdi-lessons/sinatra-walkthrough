@@ -182,3 +182,11 @@ You don't get `form_for` here -- you'll need to write HTML.
 > If GET routes are made using `get "/something" do`, how would you write a route for that HTTP method?
 
 > `puts params` may be helpful.
+
+# Resources
+
+### Screencasts
+- WDI8
+  - [Part 1](https://youtu.be/fVkzkd0ytbg)
+  - [Part 2](https://youtu.be/jz_MLbaFdEc)
+  - [Part 3](https://youtu.be/G68mVZY6B7o)
